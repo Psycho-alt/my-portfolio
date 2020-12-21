@@ -1,0 +1,60 @@
+/* wildcard styling */
+* { 
+    box-sizing: border-box; 
+} 
+  
+/* padding for whole body */
+body { 
+    padding: 15px;
+    background-color:#f7f6cf; 
+} 
+  
+/* styling body */
+.welcome {
+    max-width: 1200px; 
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 170px;
+    font-weight: bold;
+    margin-top: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #f9968b;
+}
+
+a:hover {
+    color: #ae8a8c;
+}
+
+.portfolio {
+    max-width: 1200px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #218b82;
+}
+
+a.about:hover {
+    color: #218b82;
+    text-decoration: underline;
+}
+
+h4{
+    font-size: 20px;
+    font-weight: bold;
+}
+
